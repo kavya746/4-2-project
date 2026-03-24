@@ -1,0 +1,44 @@
+FOOD_AVOID:
+Avoid junk food, alcohol, caffeine, raw or undercooked meat, unpasteurized dairy products, and high-mercury fish.
+
+FOOD_EAT:
+Pregnant women should eat fruits, vegetables, whole grains, lean proteins, dairy products, nuts, and iron-rich foods.
+
+DIET:
+Maintain a balanced diet including vitamins, minerals, protein, and fiber for healthy fetal development.
+
+HYDRATION:
+Drink at least 8–10 glasses of water daily to stay hydrated.
+
+BP:
+High blood pressure during pregnancy can lead to preeclampsia.
+
+BP_NORMAL:
+Normal blood pressure is around 120/80 mmHg.
+
+SUGAR:
+High blood sugar may indicate gestational diabetes.
+
+WEIGHT:
+Healthy weight gain during pregnancy is important for fetal growth.
+
+EXERCISE:
+Light exercises like walking and prenatal yoga are beneficial.
+
+SLEEP:
+Pregnant women should get 7–9 hours of sleep daily.
+
+MEDICATION:
+Do not take medications without consulting a doctor.
+
+SYMPTOMS:
+Seek medical help if you experience severe headache, blurred vision, bleeding, or reduced fetal movement.
+
+CHECKUP:
+Regular prenatal checkups are essential for monitoring mother and baby health.
+
+VITAMINS:
+Folic acid, iron, calcium, and vitamin D are important during pregnancy.
+
+RISK:
+High risk requires immediate medical attention.
