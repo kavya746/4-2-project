@@ -1,5 +1,6 @@
 mysql-connector-python 
 streamlit 
+streamlit-option-menu
 bcrypt
 pandas 
 matplotlib
