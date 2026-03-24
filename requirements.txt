@@ -1,0 +1,8 @@
+mysql-connector-python 
+streamlit 
+bcrypt
+pandas 
+matplotlib
+pdfplumber
+langchain langchain-community faiss-cpu sentence-transformers ollama
+python-dotenv
