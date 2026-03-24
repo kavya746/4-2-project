@@ -4,5 +4,9 @@ bcrypt
 pandas 
 matplotlib
 pdfplumber
-langchain langchain-community faiss-cpu sentence-transformers ollama
 python-dotenv
+langchain 
+langchain-community 
+faiss-cpu 
+sentence-transformers 
+ollama
